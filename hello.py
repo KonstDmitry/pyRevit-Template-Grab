@@ -9,3 +9,5 @@ print(765 + 287364)
 print('Проверка удалась')
 
 print('sdfsdfsf')
+
+print('TEST_MSI')
