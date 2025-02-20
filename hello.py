@@ -1,3 +1,7 @@
+from pyrevit import forms
+
+forms.alert()
+
 print('Hello world')
 print('no')
 
